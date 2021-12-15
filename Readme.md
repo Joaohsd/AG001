@@ -2,5 +2,5 @@
 
 # A solução dos exercícios é toda feita em python e envolve assuntos, tais como: Sistemas lineares, limites, derivadas, integrais, matrizes, etc.
 
-# Todas as soluções estão corretas.
+# As soluções estão corretas.
 
